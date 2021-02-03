@@ -1,0 +1,14 @@
+{
+    "projects": [
+        {
+            "name": "Online Movie Theatre",
+            "description": "We could all use a little more socializing right now. I made an online theatre for my friends and I to enjoy videos and movies together. I also have plans to make minigames and other fun activities in the world.",
+            "thumbnail": "movietheatre.jpg"
+        },
+        {
+            "name": "Online Movie Theatre",
+            "description": "Just a test",
+            "thumbnail": "movietheatre.jpg"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+.theme-primary {
+    background-color: #f05d5eff;
+}
+
+.theme-secondary {
+    background-color: #e7ecefff;
+}
+
+.theme-tertiary {
+    background-color: #d8a47fff;
+}
+
+/* CSS HEX */
+/* --sizzling-red: #f05d5eff;
+--skobeloff: #0f7173ff;
+--alice-blue: #e7ecefff;
+--raisin-black: #272932ff;
+--tumbleweed: #d8a47fff; */
+
+/* CSS HSL */
+/* --sizzling-red: hsla(360, 83%, 65%, 1);
+--skobeloff: hsla(181, 77%, 25%, 1);
+--alice-blue: hsla(202, 20%, 92%, 1);
+--raisin-black: hsla(229, 12%, 17%, 1);
+--tumbleweed: hsla(25, 53%, 67%, 1); */
+
+/* SCSS HEX */
+/* $sizzling-red: #f05d5eff;
+$skobeloff: #0f7173ff;
+$alice-blue: #e7ecefff;
+$raisin-black: #272932ff;
+$tumbleweed: #d8a47fff; */
+
+/* SCSS HSL */
+/* $sizzling-red: hsla(360, 83%, 65%, 1);
+$skobeloff: hsla(181, 77%, 25%, 1);
+$alice-blue: hsla(202, 20%, 92%, 1);
+$raisin-black: hsla(229, 12%, 17%, 1);
+$tumbleweed: hsla(25, 53%, 67%, 1); */
+
+/* SCSS RGB */
+/* $sizzling-red: rgba(240, 93, 94, 1);
+$skobeloff: rgba(15, 113, 115, 1);
+$alice-blue: rgba(231, 236, 239, 1);
+$raisin-black: rgba(39, 41, 50, 1);
+$tumbleweed: rgba(216, 164, 127, 1); */
+
+/* SCSS Gradient */
+/* $gradient-top: linear-gradient(0deg, #f05d5eff, #0f7173ff, #e7ecefff, #272932ff, #d8a47fff);
+$gradient-right: linear-gradient(90deg, #f05d5eff, #0f7173ff, #e7ecefff, #272932ff, #d8a47fff);
+$gradient-bottom: linear-gradient(180deg, #f05d5eff, #0f7173ff, #e7ecefff, #272932ff, #d8a47fff);
+$gradient-left: linear-gradient(270deg, #f05d5eff, #0f7173ff, #e7ecefff, #272932ff, #d8a47fff);
+$gradient-top-right: linear-gradient(45deg, #f05d5eff, #0f7173ff, #e7ecefff, #272932ff, #d8a47fff);
+$gradient-bottom-right: linear-gradient(135deg, #f05d5eff, #0f7173ff, #e7ecefff, #272932ff, #d8a47fff);
+$gradient-top-left: linear-gradient(225deg, #f05d5eff, #0f7173ff, #e7ecefff, #272932ff, #d8a47fff);
+$gradient-bottom-left: linear-gradient(315deg, #f05d5eff, #0f7173ff, #e7ecefff, #272932ff, #d8a47fff);
+$gradient-radial: radial-gradient(#f05d5eff, #0f7173ff, #e7ecefff, #272932ff, #d8a47fff); */

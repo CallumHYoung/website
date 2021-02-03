@@ -1,0 +1,20 @@
+.text-nav {
+    font-family: 'Courier New', Courier, monospace;
+    font-size:large;
+    font-weight: 200;
+    color: #6c91c2;
+}
+
+.text-heading {
+    font-family: 'Courier New', Courier, monospace;
+    font-size:x-large;
+    font-weight: 400;
+    color: #373F47;
+}
+
+.text-content {
+    font-family: 'Courier New', Courier, monospace;
+    font-size:large;
+    font-weight: 200;
+    color: #A6C8FC;
+}

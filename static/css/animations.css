@@ -1,0 +1,21 @@
+.movedown {
+    transform: translateY(-50px);
+    animation: movedown 2.0s ease forwards;
+}
+
+@keyframes zoominoutsinglefeatured {
+    0% {
+        transform: scale(1,1);
+    }
+    100% {
+        transform: scale(1.4,1.4);
+    }
+}
+
+.zoom:hover {
+    animation: zoominoutsinglefeatured 1s forwards;
+}
+
+@keyframes movedown {
+    to { transform: translateY(0); }
+}
